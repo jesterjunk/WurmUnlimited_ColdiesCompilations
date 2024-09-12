@@ -1,0 +1,4 @@
+
+version "ty1.1"
+
+apply from: "../../common/common.gradle"

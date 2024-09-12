@@ -1,7 +1,13 @@
-cloned from https://gitlab.com/tyoda-wurm/ColdiesCompilations
+<div align="right">
 
-<br>
-<br>
+<table><tr><td align="center">
+
+cloned from<br>
+[gitlab.com/tyoda-wurm/ColdiesCompilations](https://gitlab.com/tyoda-wurm/ColdiesCompilations)
+
+</td></tr></table>
+
+</div>
 
 # Coldies Compilations (NOT MY MODS)
 
